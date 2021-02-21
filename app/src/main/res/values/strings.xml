@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rma-projekt-1</string>
+    <string name="REST_API_KEY">https://api.themoviedb.org/3/movie/popular?api_key=a43d67b44bee42fbb1d72778ac23b85d&amp;language=en-US&amp;page=1</string>
+    <string name="nazad">Nazad</string>
+    <string name="id">ID</string>
+    <string name="adult">adult</string>
+    <string name="original_title">Original_title</string>
+    <string name="release_date">Release_date</string>
+    <string name="overview">Overview</string>
+    <string name="original_language">Original_language</string>
+</resources>
